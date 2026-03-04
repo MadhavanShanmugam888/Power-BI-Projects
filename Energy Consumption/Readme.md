@@ -62,21 +62,16 @@ Examples of key measures:
 
 # Requirements
 
-To run this project:
-Power BI Desktop (latest version recommended)
-Basic understanding of:
-Data modeling
-DAX
-Relationships
-Power Query transformations
+* To run this project: Power BI Desktop (latest version recommended)
+* Basic understanding of: Data modeling, DAX, Relationships, Power Query transformations
 
 # How to Use
 
-Download the .pbix file.
-Open in Power BI Desktop.
-Refresh data (if required).
-Use the navigation buttons to filter energy types.
-Explore KPI metrics and insights.
+* Download the .pbix file.
+* Open in Power BI Desktop.
+* Refresh data (if required).
+* Use the navigation buttons to filter energy types.
+* Explore KPI metrics and insights.
 
 # Author
 
