@@ -12,87 +12,79 @@ This dashboard helps stakeholders:
 # Requirements
 The following requirements were considered while designing this dashboard:
 
-1️⃣ Patient Volume Analysis
+1️. Patient Volume Analysis
 
-Display total number of ER patients.
-Show gender distribution (Male, Female, Others).
-Track monthly trend of ER visits.
-Compare year-wise data (2019 vs 2020).
+* Display total number of ER patients.
+* Show gender distribution (Male, Female, Others).
+* Track monthly trend of ER visits.
+* Compare year-wise data (2019 vs 2020).
 
-2️⃣ Wait Time Monitoring
+2️. Wait Time Monitoring
 
-Show average wait time (in minutes).
-Visualize wait time trends.
-Provide hourly and daily heatmap of wait times.
-Identify peak congestion periods.
+* Show average wait time (in minutes).
+* Visualize wait time trends.
+* Provide hourly and daily heatmap of wait times.
+* Identify peak congestion periods.
 
-3️⃣ Patient Satisfaction Analysis
+3️. Patient Satisfaction Analysis
 
-Display average patient satisfaction score (out of 10).
-Show trend fluctuations over time.
+* Display average patient satisfaction score (out of 10).
+* Show trend fluctuations over time.
 
-4️⃣ Demographic Insights
+4️. Demographic Insights
 
-Analyze patient race distribution.
-Visual comparison using bar charts.
+* Analyze patient race distribution.
+* Visual comparison using bar charts.
 
-5️⃣ Age Group Segmentation
+5️. Age Group Segmentation
 
-Categorize patients into: 0–18, 19–65, 65+
-Show monthly visit trends by age group.
+* Categorize patients into: 0–18, 19–65, 65+
+* Show monthly visit trends by age group.
 
-6️⃣ Department Referral Analysis
+6️. Department Referral Analysis
 
-* Track referrals to:
-Neurology
-Gastroenterology
-Orthopedics
-General Practice
-Physiotherapy
-Cardiology
-Renal
+* Track referrals to: Neurology, Gastroenterology, Orthopedics, General Practice, Physiotherapy, Cardiology, Renal
 * Identify high-demand departments.
 
-📊 Key Dashboard Features
+# Key Dashboard Features
 
-KPI Cards (Total Patients, Avg Wait Time, Satisfaction Score)
-Monthly Trend Line Chart
-Age Group Comparison Area Chart
-Department Referral Bar Chart
-Patient Race Distribution Chart
-Hourly & Daily Heatmap
-Year Filter (2019 / 2020 toggle)
-Clean Healthcare-Themed UI Design
+* KPI Cards (Total Patients, Avg Wait Time, Satisfaction Score)
+* Monthly Trend Line Chart
+* Age Group Comparison Area Chart
+* Department Referral Bar Chart
+* Patient Race Distribution Chart
+* Hourly & Daily Heatmap
+* Year Filter (2019 / 2020 toggle)
+* Clean Healthcare-Themed UI Design
 
-📈 Key Insights Delivered
+# Key Insights Delivered
 
-Total ER visits: 9,000
-Average Wait Time: 35 minutes
-Average Satisfaction Score: 5.01 / 10
-Balanced gender distribution
-Peak wait times visible through heatmap
-Neurology & Gastroenterology show highest referrals
+* Total ER visits: 9,000
+* Average Wait Time: 35 minutes
+* Average Satisfaction Score: 5.01 / 10
+* Balanced gender distribution
+* Peak wait times visible through heatmap
+* Neurology & Gastroenterology show highest referrals
 
-🛠 Tools & Technologies Used
+# Tools & Technologies Used
 
 (Modify based on what you actually used)
-Power BI / Tableau / Excel
-Data Cleaning & Transformation
-Data Visualization
-Dashboard Design Principles
-DAX / Excel Formulas (if applicable)
+* Power BI / Tableau / Excel
+* Data Cleaning & Transformation
+* Data Visualization
+* Dashboard Design Principles
+* DAX / Excel Formulas (if applicable)
 
-💡 Use Case
+# Use Case
 
 This dashboard can be used by:
-Hospital Administrators
-Healthcare Analysts
-Operations Managers
-Data Analysts
-
-To optimize staffing, reduce wait times, and improve patient experienc
+* Hospital Administrators
+* Healthcare Analysts
+* Operations Managers
+* Data Analysts
+* To optimize staffing, reduce wait times, and improve patient experienc
 
 # Author
-
+    
 Madhavan Shanmugam
 Power BI Developer | Data Analyst
