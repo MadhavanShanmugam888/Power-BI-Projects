@@ -66,7 +66,7 @@ This project demonstrates the following Data Analytics skills:
 
 ## Project File
 The Power BI project file is included in this repository:
-# (Energy Consumption/energy consumption Final-1.pbix)
+(Energy Consumption/energy consumption Final-1.pbix)
 You can open the file using Microsoft Power BI Desktop to explore the interactive dashboard.
 
 ## How to Use the Dashboard
