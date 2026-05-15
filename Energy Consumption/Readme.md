@@ -81,11 +81,9 @@ This project was developed as part of a Data Analytics learning and portfolio pr
 * Dashboard development
 * Data storytelling
 
-# Author
-Madhavan Shanmugam
-Aspiring Data Analyst with experience in:
-* Data Analysis
-* Power BI
-* Python
-* Excel
-* Business Intelligence
+
+## 👤 Author
+
+**Madhavan Shanmugam**
+
+*Data Analyst | Python | Power BI | SQL | Advanced Excel*
