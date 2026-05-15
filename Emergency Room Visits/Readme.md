@@ -84,8 +84,9 @@ This dashboard can be used by:
 * Data Analysts
 * To optimize staffing, reduce wait times, and improve patient experienc
 
-# Author
-    
-Madhavan Shanmugam
 
-Power BI Developer | Data Analyst
+## 👤 Author
+
+**Madhavan Shanmugam**
+
+*Data Analyst | Python | Power BI | SQL | Advanced Excel*
